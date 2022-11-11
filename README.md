@@ -940,8 +940,6 @@ school_count
 </div>
 
 
-
-
 ```python
 #Find the average math score by grade for each school type by using the groupby and 
 # mean functions, as the following image shows:
@@ -1011,7 +1009,6 @@ by_school_type.round({"math_score": 1})
 ```
 
 # Deliverable 6: Summarize Your Findings
-In the cell below, write a few sentences to describe any discoveries you made while performing your analysis along with any additional analysis you believe would be worthwhile.
 
 The goal of analyzing the school data was most likely to discover what variables have the most impact on student's test scores.
 
