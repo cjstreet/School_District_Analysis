@@ -1,4 +1,5 @@
 # School_District_Analysis
+The purpose of the analysis is to find the overall passing percentages of students and determine if there is any correlation with the budget per student using numpy-python.
 
 ### Import required dependencies
 
